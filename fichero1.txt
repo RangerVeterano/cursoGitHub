@@ -13,3 +13,5 @@ añado para subir al servidor
 un cambio hecho por un compañero
 
 ahora soy yo quien sube el fichero
+
+correjido el error encontrado
