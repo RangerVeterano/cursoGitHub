@@ -7,3 +7,5 @@ cambio de rama 1
 para el 2
 
 esto es lo que se me ha olvidado subir a lo del amend
+
+añado para subir al servidor
